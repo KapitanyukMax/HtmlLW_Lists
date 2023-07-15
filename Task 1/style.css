@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-size: 16pt;;
+}
+
+ul.seasons-list {
+    list-style-image: url(Images/Arrow.png);
+}
+
+ul.winter-list {
+    list-style-image: url(Images/Winter.png);
+}
+
+ul.spring-list {
+    list-style-image: url(Images/Spring.png);
+}
+
+ul.summer-list {
+    list-style-image: url(Images/Summer.png);
+}
+
+ul.autumn-list {
+    list-style-image: url(Images/Autumn.png);
+}
